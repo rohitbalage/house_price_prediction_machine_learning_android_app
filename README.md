@@ -3,5 +3,5 @@
 
 the app is made with tensor flow and android to detect House prediction model.
 
-![screenshot-2024-01-11_11 50 27 567](https://github.com/rohitbalage/house_price_prediction_machine_learning_android_app/assets/35831574/cac5b603-9ce7-4340-ad12-10df2854b409)
-![screenshot-2024-01-11_11 50 31 837](https://github.com/rohitbalage/house_price_prediction_machine_learning_android_app/assets/35831574/ec04f286-9131-4831-b152-e72a02171ec3)
+![screenshot-2024-01-11_11 53 59 583](https://github.com/rohitbalage/house_price_prediction_machine_learning_android_app/assets/35831574/4cbf19d4-82e3-4a13-a692-7b83a0037a45)
+![screenshot-2024-01-11_11 54 04 917](https://github.com/rohitbalage/house_price_prediction_machine_learning_android_app/assets/35831574/b2f38c40-f618-4089-9204-fc827d485efd)
